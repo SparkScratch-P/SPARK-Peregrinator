@@ -30,11 +30,12 @@
       </a>
       
       
+<iframe width="725" height="453" src="https://www.youtube.com/embed/3ZrtOo7Gt3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<iframe align="center" width="725" height="453" src="https://www.tinkercad.com/embed/6w9dvYGZyTJ?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<script src="https://apis.google.com/js/platform.js"></script>
 
-
+<div class="g-ytsubscribe" data-channelid="UCRQG8hydUuuMFdOzRf8NIUw" data-layout="full" data-theme="dark" data-count="default"></div>
 
 **SPARK Peregrinator** is a multifunctional explorer rover , focused on detecting and supplying data that are important for inhabiting space, not just life, but also those on the basis of which we can plan our journey to the planet. In further circumstances, this can serve as their _‘space-pet’_ to enter small places and retrieve data.
 
@@ -45,7 +46,8 @@ For our project, we have chosen the Challenge theme, ‘Inhabiting Space’, whi
 We wanted to make a small yet useful multipurpose inhabitation-oriented explorer that can retrieve a lot of data, the weight and accommodation still being low enough not  to put  pressure as a payload.
 
 
-<iframe width="725" height="453" src="https://www.youtube.com/embed/3ZrtOo7Gt3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe align="center" width="725" height="453" src="https://www.tinkercad.com/embed/6w9dvYGZyTJ?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
 
 Our project is exhibited as a 3D Model, designed to be equipped with advanced IoT and Sensors technology, with the **ATMega328p-based  Arduino UNO** module serving as its microcontroller.
 The advanced technology integration has a **SHARP-2Y0A02-distance-sensor** to avoid obstacles, making it capable of autonomous service, and has a special type of wheel framework with 6 separately driven grooved-wheels, where the framework is free to move on its own , self-customizing along every terrain to apply least jerk on the body. It has two triple-pivot arms to increase its range of operation, one holding a camera, another having a digger carrying soil and rock samples.
