@@ -7,6 +7,7 @@
 ### <img src="https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico" alt="ico" width="30"> Science and Programming Analysis and Research Kins (SPARK)
 
 ![](https://img.shields.io/badge/license-Attribution%20ShareAlike%203.0-green.svg)
+
 ---
 
 ## Participants
@@ -18,6 +19,18 @@
 **Tanishqa Pagidipalli** - Presentation and Editing
 
 ---
+
+ <a href="https://in.pinterest.com/pin/918382548983820089/">
+         <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />
+      </a>
+      
+      
+ <a href="https://sparkscratch-p.github.io/">
+         <img src="https://img.shields.io/badge/SparkScratch-P-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
+      </a>
+      
+      
+
 
 <iframe align="center" width="725" height="453" src="https://www.tinkercad.com/embed/6w9dvYGZyTJ?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
