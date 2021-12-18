@@ -6,6 +6,7 @@
 
 ### <img src="https://raw.githubusercontent.com/SparkScratch-P/Home/main/favicon.ico" alt="ico" width="30"> Science and Programming Analysis and Research Kins (SPARK)
 
+![](https://img.shields.io/badge/license-Attribution%20ShareAlike%203.0-green.svg)
 ---
 
 ## Participants
