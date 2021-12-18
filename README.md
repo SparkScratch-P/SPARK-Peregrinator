@@ -20,7 +20,7 @@
 
 <iframe align="center" width="725" height="453" src="https://www.tinkercad.com/embed/6w9dvYGZyTJ?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
-<iframe width="1291" height="480" src="https://www.youtube.com/embed/3ZrtOo7Gt3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="340" src="https://www.youtube.com/embed/3ZrtOo7Gt3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 SPARK Peregrinator is a multifunctional explorer rover , focused on detecting and supplying data that are important for inhabiting space, not just life, but also those on the basis of which we can plan our journey to the planet. In further circumstances, this can serve as their ‘space-pet’ to enter small places and retrieve data.
