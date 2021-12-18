@@ -42,6 +42,7 @@ Its power-system is based on a two **1.5 V** cells inside, recharged with 3 sola
 
 ***Believe me! It will work once developed.***            
 
+<!-- ShareThis BEGIN --><div class="sharethis-inline-share-buttons"></div><!-- ShareThis END -->
 
 # Please Leave a Review and Rate!
 
