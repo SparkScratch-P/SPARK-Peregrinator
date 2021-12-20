@@ -20,6 +20,8 @@
 
 ---
 
+<div class="powr-weather" id="5a11e10f_1639973224" align="right"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
+
  <a href="https://in.pinterest.com/pin/918382548983820089/">
          <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />
       </a>
@@ -60,10 +62,12 @@ Its power-system is based on a two **1.5 V** cells inside, recharged with 3 sola
 
 <!-- ShareThis BEGIN --><div class="sharethis-inline-share-buttons"></div><!-- ShareThis END -->
 
-# Please Leave a Review and Rate!
+# Please Leave a Review and Rate !!!
+
+<div class="powr-scroll-to-top" id="16c65f57_1639839394"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 
 <div class="powr-reviews" id="25b5af14_1639799438"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 
 <h1 style="text-align:center;">Thank You</h1>
 
-<div class="powr-scroll-to-top" id="16c65f57_1639839394"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
+
