@@ -59,7 +59,7 @@ Its power-system is based on a two **1.5 V** cells inside, recharged with 3 sola
 
 ***Believe me! It will work once developed.***            
 
-## Weather Condition of Launch Site :
+## Weather Condition of ISRO Launch Site :
 
 <div class="powr-weather" id="5a11e10f_1639973224"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 
