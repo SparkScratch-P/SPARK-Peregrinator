@@ -20,7 +20,6 @@
 
 ---
 
-<div class="powr-weather" id="5a11e10f_1639973224" align="right"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 
  <a href="https://in.pinterest.com/pin/918382548983820089/">
          <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />
@@ -59,6 +58,10 @@ It has also been equipped with a **CMOS IR Camera Module, a magnetometer, an acc
 Its power-system is based on a two **1.5 V** cells inside, recharged with 3 solar panels, tilted at suitable angles for all-season harnessing.
 
 ***Believe me! It will work once developed.***            
+
+## Weather Condition of Launch Site :
+
+<div class="powr-weather" id="5a11e10f_1639973224"></div><script src="https://www.powr.io/powr.js?platform=html"></script>
 
 <!-- ShareThis BEGIN --><div class="sharethis-inline-share-buttons"></div><!-- ShareThis END -->
 
